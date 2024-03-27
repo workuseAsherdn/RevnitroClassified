@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df0331a4.css",
+    "main.js": "/static/js/main.5b370937.js",
+    "static/media/Rectangle 70 (1).png": "/static/media/Rectangle 70 (1).30938937b52facca0d35.png",
+    "static/media/Vector (36).png": "/static/media/Vector (36).7de9c524b944a630f49f.png",
+    "index.html": "/index.html",
+    "main.df0331a4.css.map": "/static/css/main.df0331a4.css.map",
+    "main.5b370937.js.map": "/static/js/main.5b370937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df0331a4.css",
+    "static/js/main.5b370937.js"
+  ]
+}
